@@ -3,7 +3,7 @@ autoCheckUpdate();
 
 
 function autoCheckUpdate() {
-    const githubOwner = "PirAhmedShah";
+    const githubOwner = "Ramzan";
     const githubRepo = "Roblox-Extra";
 
     chrome.storage.local.get(null, async (RE) => {
